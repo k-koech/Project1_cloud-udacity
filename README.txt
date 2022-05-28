@@ -5,10 +5,13 @@ STATIC WEBSITE APPLICATION
     Its a personal gallery application that I display my photos for others to see.
 
   Live link
-Deployed project can be accessed here [Static Website](https://djangogallery.herokuapp.com/)   
+Deployed project can be accessed here [Static Website](https://d2r75fi6b0utnb.cloudfront.net/index.html)   
 
   Known Bugs
     The application works perfectly well, no bugs.
+ 
+  Screenshots
+    Get screenshots of steps in project.zip
 
   AWS Technologies used
     -  S3, 
