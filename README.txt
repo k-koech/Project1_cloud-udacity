@@ -1,22 +1,22 @@
-# STATIC WEBSITE APPLICATION 
-#### 05/09/2021
-#### **By Kelvin Kipchumba**
-## Project Description
+STATIC WEBSITE APPLICATION 
+    05/09/2021
+    **By Kelvin Kipchumba**
+  Project Description
     Its a personal gallery application that I display my photos for others to see.
 
-## Live link
+  Live link
 Deployed project can be accessed here [Static Website](https://djangogallery.herokuapp.com/)   
 
-## Known Bugs
+  Known Bugs
     The application works perfectly well, no bugs.
 
-## AWS Technologies used
+  AWS Technologies used
     -  S3, 
     - CloudFront
     - IAM
     - Plus HTML,CSS and JS
    
-## Support and contact details
+  Support and contact details
     - email :: koechkelvin97@gmail.com
     - phone :: +254725801772
 
