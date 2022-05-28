@@ -1,10 +1,7 @@
 STATIC WEBSITE APPLICATION 
-    05/09/2021
     **By Kelvin Kipchumba**
-  Project Description
-    Its a personal gallery application that I display my photos for others to see.
 
-  Live link
+Live link
 Deployed project can be accessed here [Static Website](https://d2r75fi6b0utnb.cloudfront.net/index.html)   
 
   Known Bugs
