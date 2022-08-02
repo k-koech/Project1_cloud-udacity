@@ -3,6 +3,7 @@ STATIC WEBSITE APPLICATION
 
 Live link
 Deployed project can be accessed here [Static Website](https://d2r75fi6b0utnb.cloudfront.net/index.html)   
+NOTE => The Link doesn't work because AWS is costly
 
   Known Bugs
     The application works perfectly well, no bugs.
